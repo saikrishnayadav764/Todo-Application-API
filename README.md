@@ -14,11 +14,6 @@
 
 
 
-<MultiLineQuickTip>
-
-Use `date-fns` format function to format the date. Refer to the documentation [link](https://date-fns.org/v2.19.0/docs/Getting-Started) for the usage of the `format` function.
-</MultiLineQuickTip>
-
 ### Invalid scenarios for all APIs
 
 - **Invalid Status**
